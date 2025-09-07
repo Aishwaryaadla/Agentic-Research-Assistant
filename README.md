@@ -1,6 +1,6 @@
 # AgenticAI – Research Exploration Agent
 
-AgenticAI is an **AI-powered research exploration tool** that helps you **search, analyze, and visualize research papers** in an interactive way.  
+Research Exploration Agent is an **AI-powered research exploration tool** that helps you **search, analyze, and visualize research papers** in an interactive way.  
 It uses **Streamlit** for the UI, **transformers (Hugging Face)** for summarization, and **NetworkX / Matplotlib** for building research knowledge graphs.  
 
 ---
